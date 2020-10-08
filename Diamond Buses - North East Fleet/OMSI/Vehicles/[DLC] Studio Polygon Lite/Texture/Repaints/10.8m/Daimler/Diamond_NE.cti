@@ -1,0 +1,240 @@
+## Diamond NE##
+
+# Diamond Buses NE - 32221 ## 
+
+[item]
+Diamond Buses NE - 32221
+Body
+Diamond_NE\DiamondNE_32221.png
+
+[item]
+Diamond Buses NE - 32221
+WindowPaint_Outside
+Diamond_NE\windows.png
+
+[item]
+Diamond Buses NE - 32221
+WindowPaint_Inside
+Diamond_NE\windows.png
+
+[item]
+Diamond Buses NE - 32221
+Floor
+Diamond_NE\Diamond_Floor.png
+
+[item]
+Diamond Buses NE - 32221
+WindowLedges
+Diamond_NE\Diamond_WindowLedges.png
+
+[item]
+Diamond Buses NE - 32221
+Interior
+Diamond_NE\Diamond_Interior.png
+
+[item]
+Diamond Buses NE - 32221
+Interior2
+Diamond_NE\Interior2.dds
+
+[item]
+Diamond Buses NE - 32221
+FrontMouldings
+Diamond_NE\FrontMouldings.dds
+
+[item]
+Diamond Buses NE - 32221
+Civics
+Diamond_NE\SL_Civics.png
+
+[item]
+Diamond Buses NE - 32221
+MiscSeating
+Diamond_NE\SL_MiscSeating_LM.png
+
+[item]
+Diamond Buses NE - 32221
+Jumpseats
+Diamond_NE\SL_Jumpseats.png
+
+[setvar]
+DestinationControllerType
+1
+
+[setvar]
+RearDestiType
+1
+
+[setvar]
+HasStopStart
+1
+
+[setvar]
+SeatType
+0
+
+[setvar]
+Visible_BodyType
+1
+
+# Diamond Buses NE - 32222 ## 
+
+[item]
+Diamond Buses NE - 32222
+Body
+Diamond_NE\DiamondNE_32222.png
+
+[item]
+Diamond Buses NE - 32222
+WindowPaint_Outside
+Diamond_NE\windows.png
+
+[item]
+Diamond Buses NE - 32222
+WindowPaint_Inside
+Diamond_NE\windows.png
+
+[item]
+Diamond Buses NE - 32222
+Floor
+Diamond_NE\Diamond_Floor.png
+
+[item]
+Diamond Buses NE - 32222
+WindowLedges
+Diamond_NE\Diamond_WindowLedges.png
+
+[item]
+Diamond Buses NE - 32222
+Interior
+Diamond_NE\Diamond_Interior.png
+
+[item]
+Diamond Buses NE - 32222
+Interior2
+Diamond_NE\Interior2.dds
+
+[item]
+Diamond Buses NE - 32222
+FrontMouldings
+Diamond_NE\FrontMouldings.dds
+
+[item]
+Diamond Buses NE - 32222
+Civics
+Diamond_NE\SL_Civics.png
+
+[item]
+Diamond Buses NE - 32222
+MiscSeating
+Diamond_NE\SL_MiscSeating_LM.png
+
+[item]
+Diamond Buses NE - 32222
+Jumpseats
+Diamond_NE\SL_Jumpseats.png
+
+[setvar]
+DestinationControllerType
+1
+
+[setvar]
+RearDestiType
+1
+
+[setvar]
+HasStopStart
+1
+
+[setvar]
+SeatType
+0
+
+[setvar]
+Visible_BodyType
+1
+
+[setvar]
+Visible_BodyType
+1
+
+# Diamond Buses NE - 32223 ## 
+
+[item]
+Diamond Buses NE - 32223
+Body
+Diamond_NE\DiamondNE_32223.png
+
+[item]
+Diamond Buses NE - 32223
+WindowPaint_Outside
+Diamond_NE\windows.png
+
+[item]
+Diamond Buses NE - 32223
+WindowPaint_Inside
+Diamond_NE\windows.png
+
+[item]
+Diamond Buses NE - 32223
+Floor
+Diamond_NE\Diamond_Floor.png
+
+[item]
+Diamond Buses NE - 32223
+WindowLedges
+Diamond_NE\Diamond_WindowLedges.png
+
+[item]
+Diamond Buses NE - 32223
+Interior
+Diamond_NE\Diamond_Interior.png
+
+[item]
+Diamond Buses NE - 32223
+Interior2
+Diamond_NE\Interior2.dds
+
+[item]
+Diamond Buses NE - 32223
+FrontMouldings
+Diamond_NE\FrontMouldings.dds
+
+[item]
+Diamond Buses NE - 32223
+Civics
+Diamond_NE\SL_Civics.png
+
+[item]
+Diamond Buses NE - 32223
+MiscSeating
+Diamond_NE\SL_MiscSeating_LM.png
+
+[item]
+Diamond Buses NE - 32223
+Jumpseats
+Diamond_NE\SL_Jumpseats.png
+
+[setvar]
+DestinationControllerType
+1
+
+[setvar]
+RearDestiType
+1
+
+[setvar]
+HasStopStart
+1
+
+[setvar]
+SeatType
+0
+
+[setvar]
+Visible_BodyType
+1
+
+[setvar]
+Visible_BodyType
+1

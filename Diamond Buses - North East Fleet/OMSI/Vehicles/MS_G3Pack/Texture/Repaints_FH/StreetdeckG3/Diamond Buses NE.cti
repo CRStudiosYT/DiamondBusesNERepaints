@@ -1,0 +1,519 @@
+*********************************************
+Diamond Buses NE - Unilink (40701)
+*********************************************
+
+[item]
+Diamond Buses NE - Unilink (40701)
+Exterior
+DiamondBusesNE\DiamondNorthEast_UnilinkBody701.dds
+
+[item]
+Diamond Buses NE - Unilink (40701)
+WindowDecalExt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE - Unilink (40701)
+WindowDecalInt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE - Unilink (40701)
+Handrails
+DiamondBusesNE\Handrails.dds
+
+[item]
+Diamond Buses NE - Unilink (40701)
+Ceilings
+DiamondBusesNE\Ceilings.png
+
+[item]
+Diamond Buses NE - Unilink (40701)
+AccessibilitySeats
+DiamondBusesNE\AccessibilitySeats.dds
+
+[item]
+Diamond Buses NE - Unilink (40701)
+RearSeats
+DiamondBusesNE\RearSeats.dds
+
+[item]
+Diamond Buses NE - Unilink (40701)
+SeatingFabric
+DiamondBusesNE\CivicV3Moquette.png
+
+[item]
+Diamond Buses NE - Unilink (40701)
+SeatingBack
+DiamondBusesNE\CivicV3Back.png
+
+[item]
+Diamond Buses NE - Unilink (40701)
+StaircaseLogo
+DiamondBusesNE\StaircaseLogoUV.png
+
+[item]
+Diamond Buses NE - Unilink (40701)
+CabDoor
+DiamondBusesNE\CabDoor.png
+
+[item]
+Diamond Buses NE - Unilink (40701)
+StaircaseWall
+DiamondBusesNE\StaircaseWall.png
+
+[item]
+Diamond Buses NE - Unilink (40701)
+HandrailGrab
+DiamondBusesNE\HandrailGrab.png
+
+
+[setvar]
+vis_assaultScreen
+0
+
+[setvar]
+vis_ceilingSpreads
+0
+
+[setvar]
+vis_destType
+1
+
+[setvar]
+vis_HANICSNextStop
+0
+
+[setvar]
+vis_MSID
+0
+
+[setvar]
+vis_rimType
+0
+
+[setvar]
+vis_skylight
+0
+
+[setvar]
+vis_seatType
+1
+
+[setvar]
+vis_staircaseType
+0
+
+[setvar]
+vis_telematics
+1
+
+[setvar]
+vis_ticketBin
+1
+
+[setvar]
+vis_treebar
+1
+
+[setvar]
+vis_whiteDisplays
+0
+
+[setvar]
+vis_smallRearDisplay
+1
+
+[setvar]
+SpeedLimiterOption
+3
+
+*********************************************
+Diamond Buses NE - Unilink (40702)
+*********************************************
+
+[item]
+Diamond Buses NE - Unilink (40702)
+Exterior
+DiamondBusesNE\DiamondNorthEast_UnilinkBody702.dds
+
+[item]
+Diamond Buses NE - Unilink (40702)
+WindowDecalExt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE - Unilink (40702)
+WindowDecalInt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE - Unilink (40702)
+Handrails
+DiamondBusesNE\Handrails.dds
+
+[item]
+Diamond Buses NE - Unilink (40702)
+Ceilings
+DiamondBusesNE\Ceilings.png
+
+[item]
+Diamond Buses NE - Unilink (40702)
+AccessibilitySeats
+DiamondBusesNE\AccessibilitySeats.dds
+
+[item]
+Diamond Buses NE - Unilink (40702)
+RearSeats
+DiamondBusesNE\RearSeats.dds
+
+[item]
+Diamond Buses NE - Unilink (40702)
+SeatingFabric
+DiamondBusesNE\CivicV3Moquette.png
+
+[item]
+Diamond Buses NE - Unilink (40702)
+SeatingBack
+DiamondBusesNE\CivicV3Back.png
+
+[item]
+Diamond Buses NE - Unilink (40702)
+StaircaseLogo
+DiamondBusesNE\StaircaseLogoUV.png
+
+[item]
+Diamond Buses NE - Unilink (40702)
+CabDoor
+DiamondBusesNE\CabDoor.png
+
+[item]
+Diamond Buses NE - Unilink (40702)
+StaircaseWall
+DiamondBusesNE\StaircaseWall.png
+
+[item]
+Diamond Buses NE - Unilink (40702)
+HandrailGrab
+DiamondBusesNE\HandrailGrab.png
+
+
+[setvar]
+vis_assaultScreen
+0
+
+[setvar]
+vis_ceilingSpreads
+0
+
+[setvar]
+vis_destType
+1
+
+[setvar]
+vis_HANICSNextStop
+0
+
+[setvar]
+vis_MSID
+0
+
+[setvar]
+vis_rimType
+0
+
+[setvar]
+vis_skylight
+0
+
+[setvar]
+vis_seatType
+1
+
+[setvar]
+vis_staircaseType
+0
+
+[setvar]
+vis_telematics
+1
+
+[setvar]
+vis_ticketBin
+1
+
+[setvar]
+vis_treebar
+1
+
+[setvar]
+vis_whiteDisplays
+0
+
+[setvar]
+vis_smallRearDisplay
+1
+
+[setvar]
+SpeedLimiterOption
+3
+
+*********************************************
+Diamond Buses NE - Unilink (40703)
+*********************************************
+
+[item]
+Diamond Buses NE - Unilink (40703)
+Exterior
+DiamondBusesNE\DiamondNorthEast_UnilinkBody703.dds
+
+[item]
+Diamond Buses NE - Unilink (40703)
+WindowDecalExt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE - Unilink (40703)
+WindowDecalInt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE - Unilink (40703)
+Handrails
+DiamondBusesNE\Handrails.dds
+
+[item]
+Diamond Buses NE - Unilink (40703)
+Ceilings
+DiamondBusesNE\Ceilings.png
+
+[item]
+Diamond Buses NE - Unilink (40703)
+AccessibilitySeats
+DiamondBusesNE\AccessibilitySeats.dds
+
+[item]
+Diamond Buses NE - Unilink (40703)
+RearSeats
+DiamondBusesNE\RearSeats.dds
+
+[item]
+Diamond Buses NE - Unilink (40703)
+SeatingFabric
+DiamondBusesNE\CivicV3Moquette.png
+
+[item]
+Diamond Buses NE - Unilink (40703)
+SeatingBack
+DiamondBusesNE\CivicV3Back.png
+
+[item]
+Diamond Buses NE - Unilink (40703)
+StaircaseLogo
+DiamondBusesNE\StaircaseLogoUV.png
+
+[item]
+Diamond Buses NE - Unilink (40703)
+CabDoor
+DiamondBusesNE\CabDoor.png
+
+[item]
+Diamond Buses NE - Unilink (40703)
+StaircaseWall
+DiamondBusesNE\StaircaseWall.png
+
+[item]
+Diamond Buses NE - Unilink (40703)
+HandrailGrab
+DiamondBusesNE\HandrailGrab.png
+
+
+[setvar]
+vis_assaultScreen
+0
+
+[setvar]
+vis_ceilingSpreads
+0
+
+[setvar]
+vis_destType
+1
+
+[setvar]
+vis_HANICSNextStop
+0
+
+[setvar]
+vis_MSID
+0
+
+[setvar]
+vis_rimType
+0
+
+[setvar]
+vis_skylight
+0
+
+[setvar]
+vis_seatType
+1
+
+[setvar]
+vis_staircaseType
+0
+
+[setvar]
+vis_telematics
+1
+
+[setvar]
+vis_ticketBin
+1
+
+[setvar]
+vis_treebar
+1
+
+[setvar]
+vis_whiteDisplays
+0
+
+[setvar]
+vis_smallRearDisplay
+1
+
+[setvar]
+SpeedLimiterOption
+3
+
+*********************************************
+Diamond Buses NE (40704)
+*********************************************
+
+[item]
+Diamond Buses NE (40704)
+Exterior
+DiamondBusesNE\DiamondNorthEast_UnilinkBody704.dds
+
+[item]
+Diamond Buses NE (40704)
+WindowDecalExt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE (40704)
+WindowDecalInt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE (40704)
+Handrails
+DiamondBusesNE\Handrails.dds
+
+[item]
+Diamond Buses NE (40704)
+Ceilings
+DiamondBusesNE\Ceilings.png
+
+[item]
+Diamond Buses NE (40704)
+AccessibilitySeats
+DiamondBusesNE\AccessibilitySeats.dds
+
+[item]
+Diamond Buses NE (40704)
+RearSeats
+DiamondBusesNE\RearSeats.dds
+
+[item]
+Diamond Buses NE (40704)
+SeatingFabric
+DiamondBusesNE\CivicV3Moquette.png
+
+[item]
+Diamond Buses NE (40704)
+SeatingBack
+DiamondBusesNE\CivicV3Back.png
+
+[item]
+Diamond Buses NE (40704)
+StaircaseLogo
+DiamondBusesNE\StaircaseLogoUV.png
+
+[item]
+Diamond Buses NE (40704)
+CabDoor
+DiamondBusesNE\CabDoor.png
+
+[item]
+Diamond Buses NE (40704)
+StaircaseWall
+DiamondBusesNE\StaircaseWall.png
+
+[item]
+Diamond Buses NE (40704)
+HandrailGrab
+DiamondBusesNE\HandrailGrab.png
+
+
+[setvar]
+vis_assaultScreen
+0
+
+[setvar]
+vis_ceilingSpreads
+0
+
+[setvar]
+vis_destType
+1
+
+[setvar]
+vis_HANICSNextStop
+0
+
+[setvar]
+vis_MSID
+0
+
+[setvar]
+vis_rimType
+0
+
+[setvar]
+vis_skylight
+0
+
+[setvar]
+vis_seatType
+1
+
+[setvar]
+vis_staircaseType
+0
+
+[setvar]
+vis_telematics
+1
+
+[setvar]
+vis_ticketBin
+1
+
+[setvar]
+vis_treebar
+1
+
+[setvar]
+vis_whiteDisplays
+0
+
+[setvar]
+vis_smallRearDisplay
+1
+
+[setvar]
+SpeedLimiterOption
+3

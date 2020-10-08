@@ -1,0 +1,161 @@
+----------------------------------
+Diamond North East - Brighter Diamond
+----------------------------------
+
+[item]
+Diamond North East - Brighter Diamond
+body
+DiamondNE/DiamondNE_Brighter_Diamond.png
+
+[item]
+Diamond North East - Brighter Diamond
+windows
+DiamondNE/DiamondNE_Brighter_Diamond_windows.png
+
+[item]
+Diamond North East - Brighter Diamond
+interior
+DiamondNE/Diamond_Interior.png
+
+[item]
+Diamond North East - Brighter Diamond
+floor
+DiamondNE/Diamond_Floor.png
+
+[item]
+Diamond North East - Brighter Diamond
+civic_fabric
+DiamondNE/Rotala_Red_Fabric_civic_blank.png
+
+[item]
+Diamond North East - Brighter Diamond
+seats
+DiamondNE/Rotala_Red_seats.png
+
+[setvar]
+vis_nut_indicators
+1
+
+[setvar]
+vis_infotainment
+0
+
+[setvar]
+vis_extended_ns_mirror
+1
+
+[setvar]
+vis_front_adlbadge
+0
+
+[setvar]
+vis_rear_adlbadge
+0
+
+----------------------------------
+Diamond North East - 30946
+----------------------------------
+
+[item]
+Diamond North East - 30946
+body
+DiamondNE/DiamondNE30946.png
+
+[item]
+Diamond North East - 30946
+windows
+DiamondNE/DiamondNE_windows.png
+
+[item]
+Diamond North East - 30946
+interior
+DiamondNE/Diamond_Interior.png
+
+[item]
+Diamond North East - 30946
+floor
+DiamondNE/Diamond_Floor.png
+
+[item]
+Diamond North East - 30946
+civic_fabric
+DiamondNE/Rotala_Red_Fabric_civic_blank.png
+
+[item]
+Diamond North East - 30946
+seats
+DiamondNE/Rotala_Red_seats.png
+
+[setvar]
+vis_nut_indicators
+1
+
+[setvar]
+vis_infotainment
+0
+
+[setvar]
+vis_extended_ns_mirror
+1
+
+[setvar]
+vis_front_adlbadge
+1
+
+[setvar]
+vis_rear_adlbadge
+1
+
+----------------------------------
+Diamond North East - 30947
+----------------------------------
+
+[item]
+Diamond North East - 30947
+body
+DiamondNE/DiamondNE30947.png
+
+[item]
+Diamond North East - 30947
+windows
+DiamondNE/DiamondNE_windows.png
+
+[item]
+Diamond North East - 30947
+interior
+DiamondNE/Diamond_Interior.png
+
+[item]
+Diamond North East - 30947
+floor
+DiamondNE/Diamond_Floor.png
+
+[item]
+Diamond North East - 30947
+civic_fabric
+DiamondNE/Rotala_Red_Fabric_civic_blank.png
+
+[item]
+Diamond North East - 30947
+seats
+DiamondNE/Rotala_Red_seats.png
+
+[setvar]
+vis_nut_indicators
+1
+
+[setvar]
+vis_infotainment
+0
+
+[setvar]
+vis_extended_ns_mirror
+1
+
+[setvar]
+vis_front_adlbadge
+1
+
+[setvar]
+vis_rear_adlbadge
+1

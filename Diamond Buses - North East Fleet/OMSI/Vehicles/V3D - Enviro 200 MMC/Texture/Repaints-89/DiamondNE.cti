@@ -1,0 +1,131 @@
+----------------------------------
+Diamond North East - Brighter Diamond (20524)
+----------------------------------
+
+[item]
+Diamond North East - Brighter Diamond (20524)
+body
+DiamondNE/DiamondNE20524.png
+
+[item]
+Diamond North East - Brighter Diamond (20524)
+interior
+DiamondNE/mmc200_interior_Diamond.png
+
+[item]
+Diamond North East - Brighter Diamond (20524)
+civic_fabric
+DiamondNE/Rotala_Red_Fabric_civic_blank.png
+
+[item]
+Diamond North East - Brighter Diamond (20524)
+seats
+DiamondNE/Rotala_Red_seats.png
+
+[setvar]
+vis_nut_indicators
+1
+
+[setvar]
+vis_infotainment
+0
+
+[setvar]
+vis_extended_ns_mirror
+1
+
+[setvar]
+vis_front_adlbadge
+0
+
+[setvar]
+vis_rear_adlbadge
+0
+
+----------------------------------
+Diamond North East - Ex-Hansons (20530)
+----------------------------------
+
+[item]
+Diamond North East - Ex-Hansons (20530)
+body
+DiamondNE/DiamondNEExHansons20530.png
+
+[item]
+Diamond North East - Ex-Hansons (20530)
+interior
+DiamondNE/mmc200_interior_Diamond.png
+
+[item]
+Diamond North East - Ex-Hansons  (20530)
+civic_fabric
+DiamondNE/Rotala_Red_Fabric_civic_blank.png
+
+[item]
+Diamond North East - Ex-Hansons  (20530)
+seats
+DiamondNE/Rotala_Red_seats.png
+
+[setvar]
+vis_nut_indicators
+1
+
+[setvar]
+vis_infotainment
+0
+
+[setvar]
+vis_extended_ns_mirror
+1
+
+[setvar]
+vis_front_adlbadge
+0
+
+[setvar]
+vis_rear_adlbadge
+0
+
+----------------------------------
+Diamond North East - Ex-Centralbuses (21105)
+----------------------------------
+
+[item]
+Diamond North East - Ex-Centralbuses (21105)
+body
+DiamondNE/DiamondNEExCentralBus21105.png
+
+[item]
+Diamond North East - Ex-Centralbuses (21105)
+interior
+DiamondNE/mmc200_interior_Diamond.png
+
+[item]
+Diamond North East - Ex-Centralbuses (21105)
+civic_fabric
+DiamondNE/Rotala_Red_Fabric_civic_blank.png
+
+[item]
+Diamond North East - Ex-Centralbuses (21105)
+seats
+DiamondNE/Rotala_Red_seats.png
+
+[setvar]
+vis_nut_indicators
+1
+
+[setvar]
+vis_infotainment
+0
+
+[setvar]
+vis_extended_ns_mirror
+1
+
+[setvar]
+vis_front_adlbadge
+1
+
+[setvar]
+vis_rear_adlbadge
+0

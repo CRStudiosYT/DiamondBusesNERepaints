@@ -1,0 +1,267 @@
+***************************************
+Diamond Buses NE - Brighter Diamond (30950)
+***************************************
+[item]
+Diamond Buses NE - Brighter Diamond (30950)
+body
+DiamondNE\DiamondNE.png
+
+[item]
+Diamond Buses NE - Brighter Diamond (30950)
+body_windows
+DiamondNE\Windows.png
+
+[item]
+Diamond Buses NE - Brighter Diamond (30950)
+seating
+DiamondNE\seating.png
+
+[item]
+Diamond Buses NE - Brighter Diamond (30950)
+ceiling
+DiamondNE\a21_interior_ceiling.png
+
+[item]
+Diamond Buses NE - Brighter Diamond (30950)
+walls
+DiamondNE\a21_interior_walls.png
+
+[item]
+Diamond Buses NE - Brighter Diamond (30950)
+interior_bars
+DiamondNE\interior_bars.png
+
+[item]
+Diamond Buses NE - Brighter Diamond (30950)
+stop_bell
+DiamondNE\bar_stop_button.png
+
+[item]
+Diamond Buses NE - Brighter Diamond (30950)
+stop_bell_disabled
+DiamondNE\bar_stop_button_disabled.png
+
+[setvar]
+vis_hubcap
+0
+
+[setvar]
+vis_cngtank
+0
+
+[setvar]
+vis_archguard
+1
+
+[setvar]
+vis_badge - sides
+0
+
+[setvar]
+vis_badge - front/rear
+0
+
+[setvar]
+vis_matrix - Number
+1
+
+***************************************
+Diamond Buses NE - Full Blue (30000)
+***************************************
+[item]
+Diamond Buses NE - Full Blue (30000)
+body
+DiamondNE\DiamondNE_Old.png
+
+[item]
+Diamond Buses NE - Full Blue (30000)
+body_windows
+DiamondNE\Windows_Exterior_Old.png
+
+[item]
+Diamond Buses NE - Full Blue (30000)
+seating
+DiamondNE\seating.png
+
+[item]
+Diamond Buses NE - Full Blue (30000)
+interior_bars
+DiamondNE\interior_bars.png
+
+[item]
+Diamond Buses NE - Full Blue (30000)
+ceiling
+DiamondNE\a21_interior_ceiling.png
+
+[item]
+Diamond Buses NE - Full Blue (30000)
+walls
+DiamondNE\a21_interior_walls.png
+
+[item]
+Diamond Buses NE - Full Blue (30000)
+stop_bell
+DiamondNE\bar_stop_button.png
+
+[item]
+Diamond Buses NE - Full Blue (30000)
+stop_bell_disabled
+DiamondNE\bar_stop_button_disabled.png
+
+[setvar]
+vis_hubcap
+0
+
+[setvar]
+vis_cngtank
+0
+
+[setvar]
+vis_archguard
+1
+
+[setvar]
+vis_badge - sides
+0
+
+[setvar]
+vis_badge - front/rear
+0
+
+[setvar]
+vis_matrix - Number
+1
+
+***************************************
+Diamond Buses NE - thedouble-o2 (30807)
+***************************************
+[item]
+Diamond Buses NE - thedouble-o2 (30807)
+body
+DiamondNE\DiamondNE_002_Old.png
+
+[item]
+Diamond Buses NE - thedouble-o2 (30807)
+body_windows
+DiamondNE\Windows_Exterior_Old_002.png
+
+[item]
+Diamond Buses NE - thedouble-o2 (30807)
+seating
+DiamondNE\seating.png
+
+[item]
+Diamond Buses NE - thedouble-o2 (30807)
+ceiling
+DiamondNE\a21_interior_ceiling.png
+
+[item]
+Diamond Buses NE - thedouble-o2 (30807)
+walls
+DiamondNE\a21_interior_walls.png
+
+[item]
+Diamond Buses NE - thedouble-o2 (30807)
+interior_bars
+DiamondNE\interior_bars.png
+
+[item]
+Diamond Buses NE - thedouble-o2 (30807)
+stop_bell
+DiamondNE\bar_stop_button.png
+
+[item]
+Diamond Buses NE - thedouble-o2 (30807)
+stop_bell_disabled
+DiamondNE\bar_stop_button_disabled.png
+
+[setvar]
+vis_hubcap
+0
+
+[setvar]
+vis_cngtank
+0
+
+[setvar]
+vis_archguard
+1
+
+[setvar]
+vis_badge - sides
+0
+
+[setvar]
+vis_badge - front/rear
+0
+
+[setvar]
+vis_matrix - Number
+1
+
+***************************************
+Diamond Buses NE - Ex-Wessex Star (30005)
+***************************************
+[item]
+Diamond Buses NE - Ex-Wessex Star (30005)
+body
+DiamondNE\DiamondNEExWessex.png
+
+[item]
+Diamond Buses NE - Ex-Wessex Star (30005)
+body_windows
+DiamondNE\WindowsExWessex.png
+
+[item]
+Diamond Buses NE - Ex-Wessex Star (30005)
+seating
+DiamondNE\seating.png
+
+[item]
+Diamond Buses NE - Ex-Wessex Star (30005)
+ceiling
+DiamondNE\a21_interior_ceiling.png
+
+[item]
+Diamond Buses NE - Ex-Wessex Star (30005)
+walls
+DiamondNE\a21_interior_walls.png
+
+[item]
+Diamond Buses NE - Ex-Wessex Star (30005)
+interior_bars
+DiamondNE\interior_bars.png
+
+[item]
+Diamond Buses NE - Ex-Wessex Star (30005)
+stop_bell
+DiamondNE\bar_stop_button.png
+
+[item]
+Diamond Buses NE - Ex-Wessex Star (30005)
+stop_bell_disabled
+DiamondNE\bar_stop_button_disabled.png
+
+[setvar]
+vis_hubcap
+0
+
+[setvar]
+vis_cngtank
+0
+
+[setvar]
+vis_archguard
+1
+
+[setvar]
+vis_badge - sides
+0
+
+[setvar]
+vis_badge - front/rear
+0
+
+[setvar]
+vis_matrix - Number
+1

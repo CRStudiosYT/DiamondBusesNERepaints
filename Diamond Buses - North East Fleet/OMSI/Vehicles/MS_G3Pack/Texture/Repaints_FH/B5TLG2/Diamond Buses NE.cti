@@ -1,0 +1,133 @@
+[item]
+Diamond Buses NE 
+Exterior
+DiamondBusesNE\DiamondNorthEastBody.dds
+
+[item]
+Diamond Buses NE 
+WindowDecalExt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE 
+WindowDecalInt
+DiamondBusesNE\Windows.png
+
+[item]
+Diamond Buses NE 
+Handrails
+DiamondBusesNE\Handrails.dds
+
+[item]
+Diamond Buses NE 
+Ceilings
+DiamondBusesNE\Ceilings.png
+
+[item]
+Diamond Buses NE 
+AccessibilitySeats
+DiamondBusesNE\AccessibilitySeats.dds
+
+[item]
+Diamond Buses NE 
+RearSeats
+DiamondBusesNE\RearSeats.dds
+
+[item]
+Diamond Buses NE 
+SeatingFabric
+DiamondBusesNE\CivicV3Moquette.png
+
+[item]
+Diamond Buses NE 
+SeatingBack
+DiamondBusesNE\CivicV3Back.png
+
+[item]
+Diamond Buses NE 
+StaircaseLogo
+DiamondBusesNE\StaircaseLogoUV.png
+
+[item]
+Diamond Buses NE 
+CabDoor
+DiamondBusesNE\CabDoor.png
+
+[item]
+Diamond Buses NE 
+StaircaseWall
+DiamondBusesNE\StaircaseWall.png
+
+[item]
+Diamond Buses NE 
+HandrailGrab
+DiamondBusesNE\HandrailGrab.png
+
+
+[setvar]
+vis_assaultScreen
+0
+
+[setvar]
+vis_ceilingSpreads
+0
+
+[setvar]
+vis_destType
+1
+
+[setvar]
+vis_HANICSNextStop
+0
+
+[setvar]
+vis_MSID
+0
+
+[setvar]
+vis_rimType
+0
+
+[setvar]
+vis_skylight
+0
+
+[setvar]
+vis_seatType
+1
+
+[setvar]
+vis_staircaseType
+0
+
+[setvar]
+vis_telematics
+1
+
+[setvar]
+vis_ticketBin
+1
+
+[setvar]
+vis_treebar
+1
+
+[setvar]
+vis_whiteDisplays
+0
+
+[setvar]
+vis_smallRearDisplay
+1
+
+[setvar]
+SpeedLimiterOption
+3
+
+[setvar]
+vis_v_badges
+0
+
+[setvar]
+vis_w_badge
+0
